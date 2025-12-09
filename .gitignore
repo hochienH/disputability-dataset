@@ -1,0 +1,7 @@
+Sentences.csv
+Sentences.parquet
+Judgements/
+__pycache__/
+*.pyc
+.DS_Store
+upload_to_hf.py
