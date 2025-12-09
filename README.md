@@ -1,16 +1,3 @@
----
-language:
-- zh
-license: cc-by-4.0
-task_categories:
-- text-classification
-tags:
-- legal
-- taiwan
-- tax
-size_categories:
-- 1M<n<10M
----
 # Disputability Datasets for Taiwanese Administrative Tax Cases (DDTAT)
 
 ## Overview
